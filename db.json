@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "shopping": [
+    {
+      "id": "9fe44450-54d0-40c2-9826-834eb070c11e",
+      "name": "Coke"
+    }
+  ]
+}
